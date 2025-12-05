@@ -33,4 +33,4 @@ Compiler design also includes error handling. A good compiler provides clear and
 
 Overall, compiler designing teaches how programming languages are processed internally. It covers scanning, parsing, semantics, optimization, code generation, and linking. Understanding compiler design helps students learn how languages work internally, how memory is handled, how errors are tracked, and how performance is optimized. It is a fundamental topic in computer science and is widely used in building interpreters, virtual machines, code editors, and development tools.
 
-#OUTPUT IMAGE:-
+#OUTPUT IMAGE:-<img width="1910" height="1017" alt="Image" src="https://github.com/user-attachments/assets/4b4c014a-0fc0-4cc8-a62a-00173b6ec8c2" />
